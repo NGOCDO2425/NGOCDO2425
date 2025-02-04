@@ -29,7 +29,7 @@
 - School Email: ngdo8647@stu.sjcc.edu
 - Personal Email: doxuanngoc@yahoo.com
   
-####### Image link
+###### Image link
 https://avatars.githubusercontent.com/u/181550309?v=4
 
-####### Porfolio [Coming soon]
+###### Porfolio [Coming soon]
