@@ -7,7 +7,7 @@
 ## Completed project:
 - Omdena-San-Jose-Ca-Health-Index
 - Learned SQL, Statistics, Unix/Linux at San Jose City Colleges
-- Self-learning Python
+- Self-learned Python
   
 ### Current Projects
 - Contributing to projects assigned by professor from the class CIS-047 at San Jose City College.
