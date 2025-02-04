@@ -1,35 +1,30 @@
 # Hello, I am Ngoc Do
-- Full Time IQA Technician Level III with excellent CMM programming skills.
-- Information System and Data Analysis Student
-- Currently studying data science at San Jose City College, focusing on data analysis and machine learning.
-- Transferring to the Information System and Data Analysis program at San Jose State University in 2025.
+-Full-Time IQA Technician Level III with excellent CMM programming skills
+-Information Systems and Data Analysis Student
+-Currently studying data science at San Jose City College, focusing on data analysis and machine learning
+-Transferring to the Information Systems and Data Analysis program at San Jose State University in 2025
 
-## Completed project:
-- Omdena-San-Jose-Ca-Health-Index
-- Learned SQL, Statistics, Unix/Linux at San Jose City Colleges
-- Self-learned Python
+## Completed Projects:
+- Omdena San Jose, CA - Health Index Project
+- Learned SQL, Statistics, and Unix/Linux at San Jose City College
+- Self-taught Python
   
-### Current Projects
-- Contributing to projects assigned by professor from the class CIS-047 at San Jose City College.
-  
-#### Currently learning 
-- Web development.
-- HTML, CSS and Javascript
+### Current Projects:
+- Contributing to projects assigned by the professor in the CIS-047 class at San Jose City College
+
+#### Currently Learning:
+- Web development
+- HTML, CSS, and JavaScript
 - Python
-- Git and Github workflows
+- Git and GitHub workflows
 
-##### Technical skills
--Obtained junior machine engineering certificate.
--Languages: HTML, CSS, Javascript (Learning)
--Tool: Visual Studio Code, Git
--Concepts: Web Development, Database Design
-
-###### How to reach me:
-- LinkedIn: https://www.linkedin.com/in/ngoc-d-05694382/
+##### Technical Skills:
+- Junior Machine Engineering Certificate (Obtained)
+- Languages: HTML, CSS, JavaScript (currently learning)
+- Tools: Visual Studio Code, Git
+- Concepts: Web Development, Database Design
+  
+###### How to Reach Me:
+- LinkedIn: Ngoc Do LinkedIn
 - School Email: ngdo8647@stu.sjcc.edu
 - Personal Email: doxuanngoc@yahoo.com
-  
-###### Image link
-https://avatars.githubusercontent.com/u/181550309?v=4
-
-###### Porfolio [Coming soon]
