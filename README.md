@@ -27,4 +27,4 @@
 ###### How to Reach Me:
 - LinkedIn: www.linkedin.com/in/ngoc-d-05694382
 - School Email: ngdo8647@stu.sjcc.edu
-- Personal Email: doxuanngoc@yahoo.com
+- Personal Email: doxuanngoc@gmail.com
