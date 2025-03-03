@@ -27,6 +27,5 @@
   
 ###### How to Reach Me:
 - LinkedIn: www.linkedin.com/in/ngoc-d-05694382
-- Machine learning engineering certificate: https://confirm.omdena.com/LCc77if
-- School Email: ngdo8647@stu.sjcc.edu
+-  School Email: ngdo8647@stu.sjcc.edu
 - Personal Email: doxuanngoc@gmail.com
