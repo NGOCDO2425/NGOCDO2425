@@ -1,6 +1,6 @@
 # Hello, I am Ngoc Do
--Full-Time IQA Technician Level III with excellent CMM programming skills
--Information Systems and Data Analysis Student
+-Full-time senior IQA Technician Level III with excellent CMM programming skills
+-Information System and Data Analysis Student
 -Currently studying data science at San Jose City College, focusing on data analysis and machine learning
 -Transferring to the Information Systems and Data Analysis program at San Jose State University in 2025
 
