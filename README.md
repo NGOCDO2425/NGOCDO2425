@@ -3,10 +3,11 @@
 -Information System and Data Analysis Student
 -Currently studying data science at San Jose City College, focusing on data analysis and machine learning
 -Transferring to the Information Systems and Data Analysis program at San Jose State University in 2025
+-Looking for a chance to work in the fields of data analysis, machine learning, and web development.
 
 ## Completed Projects:
 - Omdena San Jose, CA - Health Index Project
-- Learned SQL, Statistics, and Unix/Linux at San Jose City College
+- Learned SQL, Tableau, Statistics, and Unix/Linux at San Jose City College
 - Self-taught Python
   
 ### Current Projects:
