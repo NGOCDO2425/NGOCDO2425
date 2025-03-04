@@ -28,7 +28,7 @@ Studying **Data Science & Web Development** at San Jose City College. Planning t
 - **Concepts:** Web Dev, Databases, Accessibility
 
 ## 📂 GitHub Repositories
-- **[Omdena Health Index](https://github.com/NGOCDO2425/Omdena-Health-Index)**
+- **[Omdena Health Index](https://[https://github.com/NGOCDO2425/OMDENA2024)**
 - **[CIS-047 Web Dev](https://github.com/NGOCDO2425/NGOCDO2425)**
 - **[CIS-024C Python Programming](https://github.com/NGOCDO2425/Lupes-Lookup-App)**
 
