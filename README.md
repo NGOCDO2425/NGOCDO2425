@@ -1,31 +1,47 @@
-# Hello, I am Ngoc Do
--Full-time senior IQA Technician Level III with excellent CMM programming skills
--Information System and Data Analysis Student
--Currently studying data science at San Jose City College, focusing on data analysis and machine learning
--Transferring to the Information Systems and Data Analysis program at San Jose State University in 2025
--Looking for a chance to work in the fields of data analysis, machine learning, and web development.
+# Hello, I'm Ngoc Do
 
-## Completed Projects:
-- Omdena San Jose, CA - Health Index Project
-- Learned SQL, Tableau, Statistics, and Unix/Linux at San Jose City College
-- Self-taught Python
-  
-### Current Projects:
-- Contributing to projects assigned by the professor in the CIS-047 class at San Jose City College
+## About Me
+QA Technician Level III | Aspiring Data Analyst | Web Developer.
 
-#### Currently Learning:
-- Web development
-- HTML, CSS, and JavaScript
-- Python
-- Git and GitHub workflows
+Studying **Data Science & Web Development** at San Jose City College. Planning to transfer to **San Jose State University in 2025**.
 
-##### Technical Skills:
-- Junior Machine Engineering Certificate (Obtained)
-- Languages: HTML, CSS, JavaScript (currently learning)
-- Tools: Visual Studio Code, Git
-- Concepts: Web Development, Database Design
-  
-###### How to Reach Me:
-- LinkedIn: www.linkedin.com/in/ngoc-d-05694382
--  School Email: ngdo8647@stu.sjcc.edu
-- Personal Email: doxuanngoc@gmail.com
+## 🚀 Projects
+- **Omdena San Jose - Health Index**
+- **SQL, Tableau, Unix/Linux**
+- **Python for Data Science**
+
+## 📚 Recent Coursework
+- **CIS-047: Web Development** (HTML, CSS, JS, Git, MAMP)
+- **CIS-024C: Python Programming** (Python)
+- **Data Science & Machine Learning**
+- **RHCSA Certification Prep**
+
+## 🎯 Learning Goals
+- Improve **front-end skills** (HTML, CSS, JavaScript)
+- Master **Git & GitHub workflows**
+- Learn **server-side development** (Backend Development)
+- Learn **Databases** (SQL & NoSQL basics)
+
+## 💻 Skills
+- **Languages:** Python, HTML, CSS, JavaScript
+- **Tools:** VS Code, Git, GitHub, MAMP
+- **Concepts:** Web Dev, Databases, Accessibility
+
+## 📂 GitHub Repositories
+- **[Omdena Health Index](https://github.com/NGOCDO2425/Omdena-Health-Index)**
+- **[CIS-047 Web Dev](https://github.com/NGOCDO2425/NGOCDO2425)**
+- **[CIS-024C Python Programming](https://github.com/NGOCDO2425/Lupes-Lookup-App)**
+
+## 📞 Contact
+- **LinkedIn:** [Ngoc Do](https://www.linkedin.com/in/ngoc-do-342a3a34b/)
+- **Email:** [ngoc8647@stu.sjcc.edu](mailto:ngoc8647@stu.sjcc.edu)
+- **Email:** [doxuanngoc@gmail.com](mailto:doxuanngoc@gmail.com)
+
+## 📊 GitHub Stats
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=NGOCDO2425&show_icons=true&theme=tokyonight)
+
+## 🧑‍💻 Badges
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow)
+![Git](https://img.shields.io/badge/Git-Intermediate-orange)
